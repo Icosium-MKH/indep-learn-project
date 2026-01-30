@@ -1,0 +1,22 @@
+.coursespage-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 2rem;
+}
+
+.courses-search-bar-part {
+    width: 100%;
+    height: fit-content;
+    background-color: #9F7E69;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.courses-list-part {
+    background-color: blue;
+}
